@@ -19,4 +19,4 @@ permalink: /
 <h1>Aktuelle Uhrzeit:</h1>
 <time aria-current="date" id="zeit"></time>
 
-<input type="button" onclick="location.href() = '/'" value="Zurück zu viktor-chiarcos.github.io"
+<input type="button" onclick="location.href() = '/'" value="Zurück zu viktor-chiarcos.github.io">
