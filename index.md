@@ -21,5 +21,5 @@ permalink: /
 <time aria-current="date" id="zeit"></time>
 <a href="">Neu laden</a>
 <br>
-<a href="/clock/apple/instruction">Auf iOS installieren</a>
+<a href="/clock/apple/instruction">Auf iOS installieren</a><br>
 <a href="/">Zurück zu viktor-chiarcos.github.io</a>
