@@ -1,4 +1,5 @@
 ---
+title: Uhrzeit App for iOS
 layout: default
 permalink: /apple/app/
 ---
