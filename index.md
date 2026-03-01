@@ -22,4 +22,6 @@ permalink: /
 <a href="">Neu laden</a>
 <br>
 <a href="/clock/apple/instruction">Auf iOS installieren</a><br>
-<a href="/">Zurück zu viktor-chiarcos.github.io</a>
+
+[Docker image für Windows/Linux/Unix/Macs](https://hub.docker.com/r/viktorchiarcos/uhrzeitapp)
+<br><a href="/">Zurück zu viktor-chiarcos.github.io</a>
